@@ -19,7 +19,7 @@
   },
   "fyn": {
     "dependencies": {
-      "react-timer": "../dist"
+      "react-timer": "../../dist"
     }
   },
   "browserslist": {

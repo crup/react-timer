@@ -24,6 +24,8 @@
   "repository": "xendora/react-timer",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "class": "dist/class.js",
+  "classModule": "dist/class.es.js",
   "jsnext:main": "dist/index.es.js",
   "engines": {
     "node": ">=8",
